@@ -1,0 +1,7 @@
+{
+  "name": "Commit7",
+  "description": "Comprehensive native-grade 7-day productivity system featuring timetable management, smart check alerts, daily & weekly goal tracking, streaks, badge achievements, and dynamic motivation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
